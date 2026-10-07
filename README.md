@@ -6,8 +6,8 @@ A Unity 6000.x project that teaches you proper CI/CD on GitHub:
 - **Build once.** After tests pass, the project builds for WebGL on a GitHub-hosted runner using [GameCI](https://game.ci).
 - **Deploy from artifact.** On pushes to the default branch, the build is published to GitHub Pages straight from the workflow artifact with GitHub's official `deploy-pages` action. **No `gh-pages` branch is pushed and the workflow never needs write access to your code** — each job only gets the permissions it declares.
 
-WebGL published here (EDIT IT!): https://YOUR_GH_USERNAME.github.io/YOUR_REPO_NAME/
-
+WebGL published here (EDIT IT!): [https://YOUR_GH_USERNAME.github.io/YOUR_REPO_NAME/
+](https://shanelikesbread.github.io/UnityBoilerplateFork/)
 # Setup Steps:
 
 - [ ] I understand FERPA laws. If I make the repository public, I will remove any student information, or I am waiving the requirement to remove student information. Otherwise, I am making the repository private;
